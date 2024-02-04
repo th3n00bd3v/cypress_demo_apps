@@ -5,3 +5,4 @@ It also contains basic test cases for the following two sites:
 
 * [Cura App](https://katalon-demo-cura.herokuapp.com)
 * [Conduit App](http://react-redux.realworld.io/#/login)
+* [Heroku App](https://the-internet.herokuapp.com/)
