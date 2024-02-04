@@ -4,4 +4,4 @@ This application is for the [Testing your first application course](https://lear
 It also contains basic test cases for the following two sites:
 
 * [Cura App](https://katalon-demo-cura.herokuapp.com)
-* [Conduit App](http://react-redux.realworld.io/#/login)"# cypress_demo_apps" 
+* [Conduit App](http://react-redux.realworld.io/#/login)
